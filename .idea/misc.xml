@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2">
+=======
+<<<<<<< HEAD
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="ms-21 (2)" project-jdk-type="JavaSDK">
+=======
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_21" default="true" project-jdk-name="temurin-21" project-jdk-type="JavaSDK">
+>>>>>>> 1dc095f8fdfdad39aebeefd859a7159a6c1d1609
+>>>>>>> e1f874abaddb5cd5754543d7ac45d23b1c1ae3b9
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>
