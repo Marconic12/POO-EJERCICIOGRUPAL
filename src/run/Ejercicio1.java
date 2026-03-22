@@ -2,7 +2,7 @@ package run;
 
 import javax.swing.*;
 
-public class Ejercicio2 {
+public class Ejercicio1 {
     public static void main(String[] args) {
         double peso;
         int distancia;
