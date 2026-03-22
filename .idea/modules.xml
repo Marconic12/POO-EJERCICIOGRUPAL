@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+<<<<<<< HEAD
+      <module fileurl="file://$PROJECT_DIR$/ejercicio2.iml" filepath="$PROJECT_DIR$/ejercicio2.iml" />
+=======
       <module fileurl="file://$PROJECT_DIR$/EjercicioGrupalRemasterizado.iml" filepath="$PROJECT_DIR$/EjercicioGrupalRemasterizado.iml" />
+>>>>>>> 1dc095f8fdfdad39aebeefd859a7159a6c1d1609
     </modules>
   </component>
 </project>
